@@ -1,4 +1,4 @@
-# regulatoryai-eu
+# Regulatory AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-regulatoryai-eu is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://regulatoryai.eu/
+Regulatory AI provides a free, open‑source platform that makes the EU AI Act understandable and actionable for anyone in Europe. It offers a searchable database of the full law in 24 languages, tools to classify AI systems, and compliance documentation. The service is built in Europe, stores data in Stockholm, runs compute in the Netherlands, and aims to democratise access to AI regulation.
+
+**Areas:** AI · Regulation · Europe · OpenSource · Compliance
+
+## Regulatory AI on APIs.io
+
+Everything profiled for Regulatory AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/regulatoryai-eu/](https://apis.io/providers/regulatoryai-eu/)** — or go straight to one of the APIs or properties below.
+
+### APIs (13)
+
+- [Regulatory AI Annex API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-annex-api/) — The Annex API from Regulatory AI — 1 operation(s) for annex.
+- [Regulatory AI Annex Iv API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-annex-iv-api/) — The Annex Iv API from Regulatory AI — 1 operation(s) for annex iv.
+- [Regulatory AI Article API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-article-api/) — The Article API from Regulatory AI — 1 operation(s) for article.
+- [Regulatory AI Article Search API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-article-search-api/) — The Article Search API from Regulatory AI — 1 operation(s) for article search.
+- [Regulatory AI Classify API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-classify-api/) — The Classify API from Regulatory AI — 1 operation(s) for classify.
+- [Regulatory AI Compliance API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-compliance-api/) — The Compliance API from Regulatory AI — 2 operation(s) for compliance.
+- [Regulatory AI Estate API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-estate-api/) — The Estate API from Regulatory AI — 5 operation(s) for estate.
+- [Regulatory AI Health API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-health-api/) — The Health API from Regulatory AI — 1 operation(s) for health.
+- [Regulatory AI Lead API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-lead-api/) — The Lead API from Regulatory AI — 1 operation(s) for lead.
+- [Regulatory AI Me API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-me-api/) — The Me API from Regulatory AI — 1 operation(s) for me.
+- [Regulatory AI Recital API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-recital-api/) — The Recital API from Regulatory AI — 1 operation(s) for recital.
+- [Regulatory AI Review API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-review-api/) — The Review API from Regulatory AI — 1 operation(s) for review.
+- [Regulatory AI Verdict Card API](https://apis.io/apis/regulatoryai-eu/regulatoryai-eu-verdict-card-api/) — The Verdict Card API from Regulatory AI — 1 operation(s) for verdict card.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Regulatory AI Agentic Access](https://apis.io/agentic-access/regulatoryai-eu/regulatoryai-eu-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [EstateRow](https://apis.io/schemas/regulatoryai-eu/regulatoryai-eu-estate-row/)
+- [Health](https://apis.io/schemas/regulatoryai-eu/regulatoryai-eu-health/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Regulatoryai Eu Context](https://apis.io/jsonld/regulatoryai-eu/regulatoryai-eu-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Regulatory AI API Rules](https://apis.io/rules/regulatoryai-eu/regulatoryai-eu-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Regulatory AI Authentication](https://apis.io/security/regulatoryai-eu/regulatoryai-eu-authentication/)
+- [Regulatory AI Domain Security](https://apis.io/security/regulatoryai-eu/regulatoryai-eu-domain-security/)
+- [Regulatory AI Trust Center](https://apis.io/security/regulatoryai-eu/regulatoryai-eu-trust-center/)
+- [Regulatory AI Vulnerability Disclosure](https://apis.io/security/regulatoryai-eu/regulatoryai-eu-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Regulatory AI Plans Pricing](https://apis.io/plans/regulatoryai-eu/regulatoryai-eu-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.regulatoryai.eu/)
+- [Pricing](https://www.regulatoryai.eu/pricing/)
+- [Security](https://www.regulatoryai.eu/security/)
+- [Compliance](https://www.regulatoryai.eu/trust/)
+- [Trust centre](https://www.regulatoryai.eu/trust/)
+- [Terms of service](https://www.regulatoryai.eu/terms/)
+- [Privacy policy](https://www.regulatoryai.eu/privacy/)
+- [GitHub](https://github.com/saidbazyar/sovereign-ai-act-mcp)
+- [Status](https://www.regulatoryai.eu/status/)
+
+## API Evangelist rating
+
+**Kin Score 59.2** — strong · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.7 |
+| Contract quality | 49.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 42.9 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 71.9 |
+
+**Agent readiness 29.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/regulatoryai-eu/](https://apis.io/providers/regulatoryai-eu/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Regulatory AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/regulatoryai-eu/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
